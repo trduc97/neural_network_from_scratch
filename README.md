@@ -15,6 +15,7 @@ Multi-class classification results (F1-score)
 - Perceptron: **0.34/1.00**
 
 - Dense Neural Network*: **0.65/1.00**
-*{'relu':[512,128,64,32]}
+
+  *{'relu':[512,128,64,32]}
 
 ![result_table](https://github.com/trduc97/neural_network_from_scratch/assets/52210863/8b563fd2-2990-4208-bc2c-d0a96a4a8fca)
